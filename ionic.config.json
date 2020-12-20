@@ -1,0 +1,7 @@
+{
+  "name": "ion-koppol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
